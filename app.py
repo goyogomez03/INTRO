@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title(" Mi Primera App!!")
 
-st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales.")
+st.header("El Beagle es una raza de perro de tamaño mediano, reconocida por su apariencia tierna, su nariz curiosa y su carácter alegre. Tiene un cuerpo compacto y musculoso, con orejas largas y caídas, ojos grandes y expresivos de color marrón o avellana, y un pelaje corto, denso y suave que suele combinar blanco, negro y tonos marrones o rojizos.")
 st.write("Facilmente puedo realizar backend y frontend.")
 image = Image.open('perro.jpeg')
 
